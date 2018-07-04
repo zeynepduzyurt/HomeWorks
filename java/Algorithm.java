@@ -1,5 +1,5 @@
 /* Created by Zeynep Düzyurt
-    Displays find  duplicate members in array. */
+   Find  duplicate members in array. */
 
 package AlgorithmAnalysis;
 
