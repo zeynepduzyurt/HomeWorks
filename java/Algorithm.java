@@ -1,4 +1,4 @@
-/* Created by Zeynep Düzyurt
+/* Created by Zeynep DÃ¼zyurt
     Displays find  duplicate members in array. */
 
 package AlgorithmAnalysis;
@@ -42,7 +42,7 @@ public class Algorithm {
 
 		}
 		if (count == 0) {
-			System.out.println("yok");
+			System.out.println("not");
 		}
 
 	}
