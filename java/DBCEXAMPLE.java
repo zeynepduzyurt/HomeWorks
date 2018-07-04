@@ -1,13 +1,13 @@
 
 public class DBCEXAMPLE {
 	/**
-	 *  @inv !isEmpty() implies top() != null   //  boþ nesnelere izin verilmez
+	 *  @inv !isEmpty() implies top() != null   //  bos nesnelere izin verilmez
 	 */
 	public interface Stack
 	{
 	    /**
-	     *  @pre o != null    // koþullarý belirtir 
-	     *  @post !isEmpty()   // boþ olmamasý gerektiðini söyler. 
+	     *  @pre o != null    // kosullari belirtir 
+	     *  @post !isEmpty()   // boÃ¾ olmamasi gerektigini sÃ¶yler. 
 	     *  @post top() == o
 	     */
 	    void push(Object o);
